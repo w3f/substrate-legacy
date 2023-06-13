@@ -32,4 +32,4 @@ network = { package = "substrate-network", path = "../network" }
 rustc-hex = "2.0.1"
 sr-io = { path = "../sr-io" }
 test-client = { package = "substrate-test-runtime-client", path = "../test-runtime/client" }
-tokio = "0.1.22"
+tokio = "1.18.5"
